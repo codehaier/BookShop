@@ -1844,6 +1844,7 @@
     <Content Include="Views\Home\BooksInCategory.cshtml" />
     <Content Include="Views\Home\BookDetail.cshtml" />
     <Content Include="Views\Admin\ViewRevenue.cshtml" />
+    <Content Include="Views\Home\Bill - Copy.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
